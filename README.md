@@ -98,7 +98,7 @@ cargo test --doc
 
 - [Официальное руководство по документированию в Rust](https://doc.rust-lang.org/rustdoc/how-to-write-documentation.html)
 - [`std::env::args()`](https://doc.rust-lang.org/std/env/fn.args.html) — образец идеальной документации
-- [The Office (US), сезон 2, эпизод "The Fire"](https://www.imdb.com/title/tt0669933/) — источник вдохновения для `order_paper(true)`
+- [The Office (US), сезон 2, эпизод "The Fire"]([https://www.imdb.com/title/tt0669933/](https://en.wikipedia.org/wiki/The_Fire_(The_Office))) — источник вдохновения для `order_paper(true)`
 
 ---
 
